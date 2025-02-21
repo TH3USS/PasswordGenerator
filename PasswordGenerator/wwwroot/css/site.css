@@ -17,6 +17,82 @@ html {
   min-height: 100%;
 }
 
+
 body {
-  margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    font-weight: 600;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1rem;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.form-check {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.form-check-label {
+    margin-left: 5px;
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background: #ff7eb3;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+    .btn-primary:hover {
+        background: #ff4a86;
+    }
+
+.alert-success {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
 }

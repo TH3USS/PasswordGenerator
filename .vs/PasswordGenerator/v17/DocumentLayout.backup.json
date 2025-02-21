@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\passwordgenerator\\passwordgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\passwordgenerator\\passwordgenerator\\views\\password\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\views\\password\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\views\\password\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\passwordgenerator\\passwordgenerator\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\passwordgenerator\\passwordgenerator\\models\\passwordoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|c:\\users\\matheus\\documents\\projetos\\passwordgenerator\\passwordgenerator\\models\\passwordoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{616A2104-49A8-4155-AEC9-4FBDC1D63921}|PasswordGenerator\\PasswordGenerator.csproj|solutionrelative:passwordgenerator\\models\\passwordoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,10 +39,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PasswordGenerator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PasswordGenerator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T03:34:40.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PasswordGenerator\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PasswordGenerator\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T03:32:33.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Program.cs",
               "RelativeDocumentMoniker": "PasswordGenerator\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Program.cs",
               "RelativeToolTip": "PasswordGenerator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,42 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Views\\Password\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Views\\Password\\Index.cshtml",
               "RelativeDocumentMoniker": "PasswordGenerator\\Views\\Password\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Views\\Password\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Views\\Password\\Index.cshtml",
               "RelativeToolTip": "PasswordGenerator\\Views\\Password\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:21:41.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:21:41.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PasswordController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Controllers\\PasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Controllers\\PasswordController.cs",
               "RelativeDocumentMoniker": "PasswordGenerator\\Controllers\\PasswordController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Controllers\\PasswordController.cs",
               "RelativeToolTip": "PasswordGenerator\\Controllers\\PasswordController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:19:17.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:19:17.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PasswordOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Models\\PasswordOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Models\\PasswordOptions.cs",
               "RelativeDocumentMoniker": "PasswordGenerator\\Models\\PasswordOptions.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\PasswordGenerator\\PasswordGenerator\\Models\\PasswordOptions.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\PasswordGenerator\\PasswordGenerator\\Models\\PasswordOptions.cs",
               "RelativeToolTip": "PasswordGenerator\\Models\\PasswordOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:17:53.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:17:53.202Z"
             }
           ]
         },
